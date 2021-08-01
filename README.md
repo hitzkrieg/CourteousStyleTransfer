@@ -22,7 +22,7 @@ This repository implements a model to do style transfer for a chatbot which is r
 
 
 ---
-This code has been built over the code of the ACL 2017 paper *[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)*. This code is currently being maintained.
+This code has been built over the code of the ACL 2017 paper *[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)*. This code is currently not being maintained.
 
 ---
 
